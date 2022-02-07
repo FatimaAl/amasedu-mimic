@@ -183,16 +183,6 @@ body {
     margin-right: 20px;
     padding: 0px;
 }
-#courses-area .container .courses-country button:focus{  
-    background-color: #8f0054;
-    border: 1px solid #8f0054;
-    border-radius: 5px;
-    width: 114px;
-    height: 24.5px;
-    color: #ffffff;
-    margin-right: 20px;
-    padding: 0px;  
-}
 #courses-area .container button:hover {
     background-color: #ffffff;
     color: #8f0054;
